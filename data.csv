@@ -1,0 +1,16 @@
+Batch_ID,Flower_Type,Greenhouse_Temp_C,Greenhouse_Humidity,Transport_Temp_C,Days_in_Transit,Batch_Value_Eur,Shelf_Life_Days
+FL001,Rose,21.0,75,2.0,3,8500,12
+FL002,Rose,22.5,78,8.0,3,8500,7
+FL003,Chrysanthemum,22.0,70,4.0,4,6200,16
+FL004,Tulip,16.0,80,2.0,3,7500,9
+FL005,Rose,20.0,72,1.5,4,8500,13
+FL006,Petunia,21.0,65,5.0,2,4800,6
+FL007,Rose,24.0,82,9.0,5,8500,5
+FL008,Chrysanthemum,23.5,72,5.0,6,6200,14
+FL009,Tulip,17.0,82,4.0,4,7500,7
+FL010,Rose,19.5,74,2.5,2,8500,14
+FL011,Petunia,22.0,68,10.0,3,4800,4
+FL012,Tulip,15.5,79,1.5,3,7500,10
+FL013,Rose,23.0,80,3.0,4,8500,10
+FL014,Chrysanthemum,21.5,68,3.5,5,6200,17
+FL015,Rose,21.5,76,7.0,4,8500,8
